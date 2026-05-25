@@ -1,4 +1,4 @@
-package br.edu.iftm;
+package br.edu.iftm.desafio1;
 
 public class ChaveColisora {
     private final int id;

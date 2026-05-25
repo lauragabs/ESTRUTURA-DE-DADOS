@@ -1,12 +1,11 @@
-package br.edu.iftm;
-
-import static org.junit.jupiter.api.Assertions.assertTrue;
+package br.edu.iftm.desafio1;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
+import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

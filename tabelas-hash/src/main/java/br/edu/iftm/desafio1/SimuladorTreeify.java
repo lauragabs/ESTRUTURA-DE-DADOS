@@ -1,4 +1,4 @@
-package br.edu.iftm;
+package br.edu.iftm.desafio1;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InaccessibleObjectException;
